@@ -248,6 +248,8 @@ function ViewOwnerPot() {
         </div>
     );
 }
+```
+
 ## PurchaseTokens
 
 ### Contract
