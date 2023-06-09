@@ -189,6 +189,7 @@ function prizePool() external view returns (uint256) {
 ```
 
 ### FrontEnd
+
 ```
 function ViewPot() {
     const [prizePool, setPrizePool] = useState(0);
