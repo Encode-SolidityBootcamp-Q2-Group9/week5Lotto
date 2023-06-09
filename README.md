@@ -14,6 +14,8 @@ function getWalletInfo() public view returns (address, bool) {
 
 ```
 ### FrontEnd
+
+
 ```
 import React, { useState, useEffect } from 'react';
 import { ethers } from 'ethers';
@@ -49,6 +51,7 @@ export default function InstructionsComponent() {
 ```
 
 ## OwnerPanel
+
 ```
 function OwnerPanel() {
     return <p>You're the owner!.</p>;
@@ -87,6 +90,7 @@ function BuyTicket() {
         </div>
     );
 }
+```
 
 ### Contract 
 
